@@ -13,9 +13,9 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'yuee', // Usually your GitHub org/user name.
+  organizationName: 'catplanet007', // Usually your GitHub org/user name.
   projectName: 'yuee', // Usually your repo name.
-
+  trailingSlash: false,
   presets: [
     [
       '@docusaurus/preset-classic',
